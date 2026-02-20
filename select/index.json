@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "far away Ⅱ feat. SO-TA",
+  "base_artist": "Noa",
+  "createdAt": "2026-02-20T17:01:38.454682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Far Away In Baagad",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/01_Far_Away_In_Baagad_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Far Away",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/02_Far_Away_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Far Away",
+      "artist": "Ginuwine",
+      "has_synced": true,
+      "path": "select/03_Far_Away_Ginuwine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So Far Away",
+      "artist": "Katy B feat. Wilkinson & Stamina MC",
+      "has_synced": true,
+      "path": "select/04_So_Far_Away_Katy_B_feat._Wilkinson_&_Stamina_MC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Caught In Time, So Far Away",
+      "artist": "You'll Never Get to Heaven",
+      "has_synced": true,
+      "path": "select/05_Caught_In_Time,_So_Far_Away_You'll_Never_Get_to_Heaven.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "So Far Away From the Sea",
+      "artist": "Yuksek",
+      "has_synced": false,
+      "path": "select/06_So_Far_Away_From_the_Sea_Yuksek.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Over The Hills And Far Away",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/07_Over_The_Hills_And_Far_Away_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Far Away In Baagad - Love Is",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/08_Far_Away_In_Baagad_-_Love_Is_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Far Away from You",
+      "artist": "Chicane",
+      "has_synced": true,
+      "path": "select/09_Far_Away_from_You_Chicane.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Over The Hills And Far Away",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/10_Over_The_Hills_And_Far_Away_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Ran (So Far Away)",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/11_I_Ran_(So_Far_Away)_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Far Away from Home",
+      "artist": "Groove Coverage",
+      "has_synced": true,
+      "path": "select/12_Far_Away_from_Home_Groove_Coverage.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Ran (So Far Away)",
+      "artist": "Darude",
+      "has_synced": false,
+      "path": "select/13_I_Ran_(So_Far_Away)_Darude.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Ran (So Far Away) [Radio Edit]",
+      "artist": "Darude",
+      "has_synced": false,
+      "path": "select/14_I_Ran_(So_Far_Away)_[Radio_Edit]_Darude.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Ran (So Far Away) [Tech Mix]",
+      "artist": "Darude",
+      "has_synced": false,
+      "path": "select/15_I_Ran_(So_Far_Away)_[Tech_Mix]_Darude.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "far away",
+      "artist": "Noa Feat. SO-TA",
+      "has_synced": false,
+      "path": "select/pl_01_far_away_Noa_Feat._SO-TA.txt"
+    }
+  ]
+}
